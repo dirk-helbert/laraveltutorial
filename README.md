@@ -1,5 +1,5 @@
 # Laravel Anfänger Tutorial
-Hier findest du die Projekt Dateien aus meinem [Laravel Anfänger Tutorial](http://blog.dirk-helbert.de/lavavel-tutorial-uebersicht/). Wenn du auf "Branch: master" klickst und dann auf Tags, findest du jeweils den aktuellen Stand zu einem Tutorial auf meiner Seite.
+Hier findest du die Projekt Dateien aus meinem [Laravel Anfänger Tutorial](http://blog.dirk-helbert.de/lavavel-tutorial-uebersicht/). Wenn du auf "Branch: master" gehst und dann auf Tags, findest du jeweils den aktuellen Stand zu einem Tutorial auf meiner Seite.
 
 ##License
 
